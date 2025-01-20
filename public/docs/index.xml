@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rethinking Payments</title>
-    <link>https://raveesh-me.github.io/payments/</link>
-    <description>Recent content on Rethinking Payments</description>
+    <title>Docs on Rethinking Payments</title>
+    <link>https://raveesh-me.github.io/payments/docs/</link>
+    <description>Recent content in Docs on Rethinking Payments</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://raveesh-me.github.io/payments/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://raveesh-me.github.io/payments/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://raveesh-me.github.io/payments/docs/anatomy-of-transaction/</link>

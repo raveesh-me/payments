@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/raveesh/Desktop/ndyd",
+	"sourceRoot": "/Users/raveesh/Desktop/payments",
 	"sources": [
 		"ananke/css/main.css"
 	],
