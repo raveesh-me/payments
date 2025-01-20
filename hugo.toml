@@ -1,0 +1,4 @@
+baseURL = 'https://raveesh-me.github.io/payments'
+languageCode = 'en-us'
+title = 'Rethinking Payments'
+theme = 'ananke'
