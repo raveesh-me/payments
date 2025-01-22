@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/docs/anatomy-of-transaction.md",
+                "file": "content/docs/anatomy-of-a-transaction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "anatomy-of-transaction"
+              "title": "anatomy-of-a-transaction"
             }
           }
         ]
@@ -149,6 +149,7 @@
   },
   "active": "c6d1a0cd01de9e9a",
   "lastOpenFiles": [
-    "README.md"
+    "README.md",
+    "content/docs/anatomy-of-a-transaction.md"
   ]
 }
