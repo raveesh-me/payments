@@ -4,7 +4,6 @@ description: This document identifies the lengthiest possible transaction and al
 author: Raveesh Agarwal
 date: 22 Jan 2025
 ---
-
 ### Transaction
 A transaction is the atom of finance. A transaction is an exchange of currency against value delivered.
 
@@ -40,8 +39,7 @@ Should the service be complete, or the items be packed, or subsequent orders be 
 i.e. at the moment the vendor has complete confirmation of the value delivered, the vendor raises the invoice.
 An invoice documents the `ask` for payment. It has parameters such as:
 - Required Amount
-- Payment Terms
-- Cash Discount
+- Payment Terms(Including Cash Discount)
 - Details of the Payment Method
 etc
 
